@@ -20,10 +20,12 @@ MonoBehaviour:
   roomNodeTypeList: {fileID: 11400000, guid: 29f55704eb5fa9b419871c6e6d41ffd4, type: 2}
   rect:
     serializedVersion: 2
-    x: 856
-    y: 246.40002
+    x: 991
+    y: 387.40002
     width: 160
     height: 75
+  isLeftClickDragging: 0
+  isSelected: 1
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60,7 +62,9 @@ MonoBehaviour:
   roomNodeTypeList: {fileID: 11400000, guid: 29f55704eb5fa9b419871c6e6d41ffd4, type: 2}
   rect:
     serializedVersion: 2
-    x: 664
-    y: 292
+    x: 1281
+    y: 451
     width: 160
     height: 75
+  isLeftClickDragging: 0
+  isSelected: 0
